@@ -1,3 +1,7 @@
+
+//simple javascript program using object
+
+
 // 1. Creating an object using Object Literal syntax
 const car = {
   brand: "Tesla",
