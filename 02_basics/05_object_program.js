@@ -1,5 +1,6 @@
 
-//simple javascript program using object
+//simple javascript program using object and funtion
+
 
 
 // 1. Creating an object using Object Literal syntax
